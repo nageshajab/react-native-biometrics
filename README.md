@@ -34,6 +34,7 @@ Emulator (if installed)
 Install Expo Go from the Play Store or App Store.
 Scan the QR code shown in the terminal or browser.
 
-5. 
-6. 
+5. Installed npm package 'twrnc' for fonts and icons
+6. Installed npm package 'expo-local-authentication' for enabling biometrics in react native project
+7. 
 
