@@ -8,24 +8,25 @@ Expo CLI (Install via npm)
 Git (optional but recommended)
 
 🚀 Step-by-Step Guide
+
 1. Install Expo CLI
-Open your terminal and run:
-npm install -g expo-cli
+   Open your terminal and run:
+   npm install -g expo-cli
 
 2. Create a New Project
-Run the following command to create a new app:
-expo init MyAwesomeApp
-You'll be prompted to choose a template. For beginners, choose:
+   Run the following command to create a new app:
+   expo init MyAwesomeApp
+   You'll be prompted to choose a template. For beginners, choose:
 
 blank (JavaScript) or
 blank (TypeScript) if you prefer TypeScript.
 
 3. Navigate to Your Project Folder
-cd MyAwesomeApp
+   cd MyAwesomeApp
 
 4. Start the Development Server
-npm start
-This will launch Expo Dev Tools in your browser. You can run the app on:
+   npm start
+   This will launch Expo Dev Tools in your browser. You can run the app on:
 
 Android/iOS device using the Expo Go app
 Emulator (if installed)
@@ -35,6 +36,7 @@ Install Expo Go from the Play Store or App Store.
 Scan the QR code shown in the terminal or browser.
 
 5. Installed npm package 'twrnc' for fonts and icons
-6. Installed npm package 'expo-local-authentication' for enabling biometrics in react native project
-7. 
 
+6. Installed npm package 'expo-local-authentication' for enabling biometrics in react native project
+
+7. Expo Go App: Download the Expo Go app on your physical device or emulator/simulator. Run "expo start" or "npm start" in your terminal, and scan the QR code displayed in the terminal or browser to open your app on the device.
